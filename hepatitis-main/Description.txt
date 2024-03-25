@@ -1,0 +1,2 @@
+
+This repository features an extensive full-stack project tailored for the classification of hepatitis instances into two distinct categories: Class 1 and Class 2. The project includes a well-integrated backend and frontend, ensuring a smooth user interface for the seamless classification of hepatitis cases.
